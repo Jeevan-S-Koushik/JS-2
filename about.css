@@ -1,0 +1,17 @@
+body{
+    background-repeat: no-repeat;
+}
+#about{
+    margin-top: 60px;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-family:Comic Sans MS,Comic Sans,cursive;
+    color: rgba(0, 0, 0, 0.774);
+    background-color: rgba(104, 148, 202, 0.212);
+    text-decoration: overline;
+}
+#p1{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.144);
+    /* font-weight: bold; */
+}

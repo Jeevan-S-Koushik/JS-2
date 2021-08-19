@@ -1,0 +1,57 @@
+body{
+    background-repeat: no-repeat;
+}
+#phno{
+    margin-top: 120px;
+    margin-left: 500px;
+    margin-right: 470px;
+    font-family:Comic Sans MS,Comic Sans,cursive;
+    color: rgba(0, 0, 0, 0.774);
+    background-color: rgba(104, 148, 202, 0.212);
+    text-decoration: overline;
+}
+#email{
+    margin-top: 50px;
+    margin-left: 550px;
+    margin-right: 520px;
+    font-family:Comic Sans MS,Comic Sans,cursive;
+    color: rgba(0, 0, 0, 0.774);
+    background-color: rgba(104, 148, 202, 0.212);
+    text-decoration: overline;
+}
+#address{
+    margin-top: 50px;
+    margin-left: 550px;
+    margin-right: 550px;
+    font-family:Comic Sans MS,Comic Sans,cursive;
+    color: rgba(0, 0, 0, 0.904);
+    background-color: rgba(104, 148, 202, 0.212);
+    text-decoration: overline;
+}
+#p1{
+    margin-top: 10px;
+    margin-left: 550px;
+    margin-right: 550px;
+    color: white;
+    text-decoration:wavy;
+    /* background-color: rgba(95, 158, 160, 0.678); */
+    font-size: 30px;
+}
+#p2{
+    margin-top: 10px;
+    margin-left: 550px;
+    margin-right: 550px;
+    color: white;
+    text-decoration:wavy;
+    /* background-color: rgba(95, 158, 160, 0.678); */
+    font-size: 30px;
+}
+#p3{
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: white;
+    text-decoration:wavy;
+    /* background-color: rgba(95, 158, 160, 0.678);  */
+    font-size: 30px;
+} 

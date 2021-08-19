@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="Menu.css">
+    <title>Menu</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+
+<body background="hotelManagementBg.jpeg">
+    <div class="row no-gutters">
+        <div class="col no-gutters">
+            <div class="leftside">
+                <!-- <img id="image" src="menu.jpg" alt="Error"> -->
+                <h1 id="menucard">  MENU CARD  </h1>
+                <select id="menu1">
+                    <option><b>South Indian Food</b></option>
+                    <option>IDLI SAMBAR -50</option>
+                    <option>FRIED IDLI -55</option>
+                    <option>MEDU WADA -55</option>
+                    <option>PLAIN DOSA -40</option>
+                    <option>MASALA DOSA -50</option>
+                    <option>MYSORE PLAIN DOSA -45</option>
+                    <option>MYSORE MASALA DOSA -55</option>
+                    <option>CHEESE MYSORE MASALA DOSA -65</option>
+                    <option>SPRING DOSA -60</option>
+                    <option>CREAM CHEESE DOSA -70</option>
+                    <option>PAPER PLAIN DOSA -70</option>
+                    <option>PAPER MASALA DOSA -80</option>
+                    <option>PLAIN UTAPPA -50</option>
+                    <option>ONION UTAPPA -55</option>
+                    <option>MASALA UTAPPA -65</option>
+                    <option>CHEESE UTAPPA -70</option>
+                    <option>ONION TOMATO CHEESE UTAPPA -90</option>
+                    <option>TOMATO OMELETTE -70</option>
+                </select><br>
+                <select id="menu2">
+                    <option>Indian Breads</option>
+                    <option>ROTI -15</option>
+                    <option>BUTTER ROTI -20</option>
+                    <option>CHAPATI -15</option>
+                    <option>BUTTER CHAPATI -20</option>
+                    <option>NAAN -25</option>
+                    <option>BUTTER NAAN -30</option>
+                    <option>LACCHA PARATHA -25</option>
+                    <option>METHI PARATHA -25</option>
+                    <option>KULCHA/BUTTER KULCHA -25</option>
+                    <option>STUFFED KULCHA -45</option>
+                    <option>GARLIC CHEESE NAAN -40</option>
+                    <option>ROTI-BASKET -180</option>
+                    <option>KHAKRA -100</option>
+                </select><br>
+                <select id="menu3">
+                    <option>RICE ITEMS</option>
+                    <option>STEAMED RICE -80</option>
+                    <option>JEERA RICE -90</option>
+                    <option>VEG PULAO -120</option>
+                    <option>GREEN PEAS PULAO -100</option>
+                    <option>TAVA PULAO -110</option>
+                    <option>METHI CORN PULAO -120</option>
+                    <option>KASHMIRI PULAO -130</option>
+                    <option>VEG BIRIYANI -140</option>
+                    <option>VEG DUM BIRIYANI -150</option>
+                </select>
+            </div>
+        </div>
+        <div class="col no-gutters">
+            <div class="rightside">
+                <textarea id="text1" placeholder="Enter Dishes and price"></textarea>
+                <input type="button" value="Add" id="btn1" onclick="func1()" />
+                <textarea readonly id="text2"></textarea>
+                <input type="button" value="Calculate" id="btn2" onclick="func2()" />
+                <a href="placeorder.html" ><input type="button" value="Place Order" id="btn3" /></a>
+            </div>
+        </div>
+    </div>
+    <script src="Menu.js"></script>
+</body>
+
+</html>

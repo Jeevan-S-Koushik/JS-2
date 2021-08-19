@@ -1,0 +1,137 @@
+#head{
+    margin-top: 50px;
+    margin-left: 520px;
+    margin-bottom: 0%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    color:rgb(0,100,0);
+    text-decoration: overline;
+    text-shadow:3px 5px rgba(0, 0, 0, 0.342);
+}
+/* hoverimg property */
+ /* .btn:hover{
+    background-color: black;
+    color: aliceblue;
+ } */
+
+
+#p1{
+    margin-top: 1px;
+    margin-left: 590px;
+    margin-bottom: 50px;
+    font-size: 18px;
+    color: black;
+    text-decoration: overline;
+    font-family: Comic Sans MS,Comic Sans,cursive;
+
+}
+#ambi{
+    background-color:rgba(90, 109, 172, 0.349);
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+    font-size: 28px;
+    margin-left: 40px;
+    margin-right: 40px;
+    color:black;
+    font-weight: lighter;
+    border-radius: 25px;
+    text-shadow :5px;
+}
+#b1{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 40px;
+    width: 150px;
+    height: 40px;
+    background-color: darkgrey;
+    color:blue;
+    border-radius: 25px;
+    font-family: Comic Sans MS,Comic Sans,cursive;
+    font-size: 20px;
+}
+#b1:hover{
+    background-color: rgba(0, 0, 0, 0.356);
+    color: aliceblue;
+}
+#b2:hover{
+    background-color: rgba(0, 0, 0, 0.356);
+    color: aliceblue;
+}
+#b3:hover{
+    background-color: rgba(0, 0, 0, 0.356);
+    color: aliceblue;
+}
+#b4:hover{
+    background-color: rgba(0, 0, 0, 0.356);
+    color: aliceblue;
+}
+#b2{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 40px;
+    width: 150px;
+    height: 40px;
+    background-color: darkgrey;
+    color:blue;
+    border-radius: 25px;
+    font-family: Comic Sans MS,Comic Sans,cursive;
+    font-size: 20px;
+    
+}
+
+#b3{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 40px;
+    width: 150px;
+    height: 40px;
+    background-color: darkgrey;
+    color:blue;
+    border-radius: 25px;
+    font-family: Comic Sans MS,Comic Sans,cursive;
+    font-size: 20px;
+
+}
+#b4{
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-right: auto;
+    width: 150px;
+    height: 40px;
+    background-color: darkgrey;
+    color:blue;
+    border-radius: 25px;
+    font-family: Comic Sans MS,Comic Sans,cursive;
+    font-size: 20px;
+}
+#h2{
+    color: aliceblue;
+    margin-left: 50px;
+    margin-top: 100px;
+    text-decoration: underline;
+}
+
+body{
+    background-repeat: no-repeat;
+}
+#h3{
+    color:rgb(0, 0, 0);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    font-size: 22px;
+    font-family: monospace;
+    background-color: rgba(169, 169, 169, 0.267);
+
+}
+#h4{
+    color:rgb(0, 0, 0);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    font-size: 22px;
+    font-family: monospace;
+    background-color: rgba(169, 169, 169, 0.267);
+
+}
